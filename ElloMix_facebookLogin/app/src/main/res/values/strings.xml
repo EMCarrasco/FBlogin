@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">ElloMix_facebookLogin</string>
+
+    <string name="facebook_app_id">714928195322801</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+</resources>
